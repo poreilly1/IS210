@@ -1,0 +1,27 @@
+
+
+.center{
+    text-align: center;
+}
+
+.underline{
+    text-decoration:underline;
+}
+
+.italics{
+    text-align: left;
+}
+
+.color{
+    text-decoration: black;
+    text-decoration: white;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+ol{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
